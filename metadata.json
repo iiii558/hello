@@ -1,0 +1,5 @@
+{
+  "name": "Io Tidal Heating Simulator",
+  "description": "Interactive visualization of Io's tidal flexing and heating as it orbits Jupiter.",
+  "requestFramePermissions": []
+}
